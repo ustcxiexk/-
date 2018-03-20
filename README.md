@@ -11,7 +11,27 @@
 2. 折叠桌的设计应做到产品稳固性好、加工方便、用材最少。对于任意给定的折叠桌高度和圆形桌面直径的设计要求，讨论长方形平板材料和折叠桌的最优设计加工参数，例如，平板尺寸、钢筋位置、开槽长度等。对于桌高70 cm，桌面直径80 cm的情形，确定最优设计加工参数。
 
 3. 公司计划开发一种折叠桌设计软件，根据客户任意设定的折叠桌高度、桌面边缘线的形状大小和桌脚边缘线的大致形状，给出所需平板材料的形状尺寸和切实可行的最优设计加工参数，使得生产的折叠桌尽可能接近客户所期望的形状。你们团队的任务是帮助给出这一软件设计的数学模型，并根据所建立的模型给出几个你们自己设计的创意平板折叠桌。要求给出相应的设计加工参数，画出至少8张动态变化过程的示意图。
-![Aaron Swartz](https://github.com/ustcxiexk/TrickGame/raw/master/FullGame/application/static/image/table.png)
+            ![Aaron Swartz](https://github.com/ustcxiexk/TrickGame/raw/master/FullGame/application/static/image/table.png)
+            
+## 美赛： Eradicating Ebola
+ 
+   The world medical association has announced that their new medication could stop Ebola and cure patients whose disease is not advanced. Build a realistic, sensible, and useful model that considers not only the spread of the disease, the quantity of the medicine needed, possible feasible delivery systems, locations of delivery, speed of manufacturing of the vaccine or drug, but also any other critical factors your team considers necessary as part of the model to optimize the eradication of Ebola, or at least its current strain. In addition to your modeling approach for the contest, prepare a 1-2 page non-technical letter for the world medical association to use in their announcement.
+
+   世界医学协会日前宣布，其新的药物可以阻止埃博拉病毒和治愈患者的疾病（这种疾病没有恶化）。请建立一个现实的、合理的，并且有用的模型。该模型不仅应该考虑如下因素：病毒的传播，所需的药量，。可行的输送系统，输送地点，疫苗或药品的制造速度；也应该考虑其他的你们认为建模时必要的因素。这些因素用以优化埃博拉病毒的根除，或者至少优化its current strain。除了你的建模及其方法，要为世界医学协会出具1-2页的非技术性文档。
+
+
+## 华中赛： 互联网搜索引擎的排名与设计
+
+   随着互联网的高速发展和普及，人们越来越依赖于互联网共享信息和获取信息。同时，网络上的海量信息是我们巨大而宝贵的资源，但是，这些信息格式和内容纷杂多变，又充斥着大量虚假和垃圾信息，搜索引擎技术是高效且方便地利用这些资源的有效手段。在搜索页面中，只要输入你想搜索的内容，比如，mp3、游戏、电影、软件、图片、音乐、新闻、视频等等，或者输入作者名、文章标题、书名或期刊名、出版年月或发表年月、关键词等，搜索引擎会立刻给出符合条件的链接。常见的搜索引擎有百度、谷歌、雅虎等：
+ 
+参考下面的资料和其它资料，解决如下问题：
+
+1 建立数学模型，对现有互联网搜索引擎的优劣进行评价，给出排名前5名的搜索引擎，并将排名结果与[1]的排序结果进行比较。
+
+2 建立数学模型，设计出具有个性化特色的互联网搜索引擎，并举例对搜索引擎进行验证。例如，如果是汉字成语搜索引擎，那么输入“张”时，可搜索出“张冠李戴”等成语；如果是中文人名搜索引擎，那么输入“张”时，可搜索出“张三丰”等人名；当然，也可以对某类图片、某类音乐等进行搜索。
+
+3 将你设计的个性化搜索引擎进行一般性推广。
+
 
 
 ## 项目一： 智能推荐问题研究
